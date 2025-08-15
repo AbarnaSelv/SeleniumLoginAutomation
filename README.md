@@ -14,21 +14,21 @@ This repo demonstrates a minimal, professional structure and three simple flows 
 3. **Add product to cart → verify → logout** — add *Sauce Labs Backpack* to cart, open cart, verify item present, then logout.
 
 ---
-## Project structure 
+### Project Structure
 
-src/main/java/com/abarnaselenium/pages
-│── BasePage.java # Common page utilities
-│── LoginPage.java # Login functionality
-│── HomePage.java # Home page actions (logout, menu, etc.)
-│── ProductPage.java # Product selection & cart verification
+src/main/java/com/abarnaselenium/pages – Page Object classes
+- BasePage.java – Common page utilities
+- LoginPage.java – Login functionality
+- HomePage.java – Home page actions (logout, menu, etc.)
+- ProductPage.java – Product selection & cart verification
 
-src/test/java/com/abarnaselenium/tests
-│── BaseTest.java # Driver setup & teardown
-│── LoginTest.java # Login test case
-│── ProductTest.java # Add to cart & verify
+src/test/java/com/abarnaselenium/tests – Test classes
+- BaseTest.java – Driver setup & teardown
+- LoginTest.java – Login test case
+- ProductTest.java – Add to cart & verify
 
-pom.xml # Maven dependencies & build config
-testng.xml # TestNG suite configuration
+pom.xml – Maven dependencies & build configuration  
+testng.xml – TestNG suite configuration
 
 
 ## Key Features
