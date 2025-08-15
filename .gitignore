@@ -1,0 +1,24 @@
+# Java class files
+*.class
+
+# Maven target directory
+target/
+
+# TestNG reports
+test-output/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
