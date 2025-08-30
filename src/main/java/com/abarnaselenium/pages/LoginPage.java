@@ -13,7 +13,7 @@ public class LoginPage extends BasePage{
 
 	public LoginPage(WebDriver driver) {
 		super(driver);
-		}
+	}
 	@FindBy(id="user-name")
 	private WebElement username;
 	

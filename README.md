@@ -39,6 +39,18 @@ testng.xml – TestNG suite configuration
 - Simple and maintainable framework
 - Easy to add more test cases
 
+---
+
+## 🎥 Demo Video  
+▶️ [Click here to watch the execution video](https://drive.google.com/file/d/1f4yjHHmAyfma9dk7YlcTrJ2XFoGHkviS/view?usp=sharing)  
+
+---
+
+## 📸 Screenshots  
+Execution screenshots are included inside the repository under the `Project_Demo/` folder.  
+
+---
+
 ## How to Run
 
 ### 1. Using TestNG Suite (IDE)

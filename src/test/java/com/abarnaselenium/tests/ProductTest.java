@@ -11,7 +11,7 @@ public class ProductTest extends BaseTest {
 	
 	@Test
 	public void addtoProductTest() {
-		driver.get("https://www.saucedemo.com/");
+		//driver.get("https://www.saucedemo.com/");
 		LoginPage login_page = new LoginPage(driver);
 		login_page.Login("standard_user", "secret_sauce"); 
 		
