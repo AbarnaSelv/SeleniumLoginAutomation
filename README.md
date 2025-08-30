@@ -30,6 +30,8 @@ src/test/java/com/abarnaselenium/tests – Test classes
 pom.xml – Maven dependencies & build configuration  
 testng.xml – TestNG suite configuration
 
+---
+
 
 ## Key Features
 - Reusable Page Objects using PageFactory
@@ -40,6 +42,7 @@ testng.xml – TestNG suite configuration
 - Easy to add more test cases
 
 ---
+
 
 ## 🎥 Demo Video  
 ▶️ [Click here to watch the execution video](https://drive.google.com/file/d/1f4yjHHmAyfma9dk7YlcTrJ2XFoGHkviS/view?usp=sharing)  
