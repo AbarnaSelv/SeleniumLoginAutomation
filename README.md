@@ -72,14 +72,14 @@ Other important files:
 
 ---
 
-## Demo Video
+## Execution Video
 
 Execution demo video is available here:  
 [Click here to watch the execution video](https://drive.google.com/file/d/1f4yjHHmAyfma9dk7YlcTrJ2XFoGHkviS/view?usp=sharing)
 
 ---
 
-## Screenshots
+## Execution Screenshots
 
 Execution screenshots are available inside the repository under the **Project_Demo/** folder.
 
