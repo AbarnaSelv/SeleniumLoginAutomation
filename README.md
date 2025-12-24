@@ -75,7 +75,7 @@ Other important files:
 ## Demo Video
 
 Execution demo video is available here:  
-https://drive.google.com/file/d/1f4yjHHmAyfma9dk7YlcTrJ2XFoGHkviS/view?usp=sharing
+[Click here to watch the execution video](https://drive.google.com/file/d/1f4yjHHmAyfma9dk7YlcTrJ2XFoGHkviS/view?usp=sharing)
 
 ---
 
